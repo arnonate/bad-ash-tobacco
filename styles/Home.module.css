@@ -19,7 +19,7 @@
 }
 
 @media (max-width: 800px) {
-  .background > *:nth-child(3) {
+  .background > *:nth-child(2) {
     display: none;
   }
 }
