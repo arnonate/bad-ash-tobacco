@@ -18,9 +18,9 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <div className={styles.background}>
           <div style={{ backgroundImage: "url(/shelf.png)" }}></div>
-          <div style={{ backgroundImage: "url(/devin.png)" }}></div>
           <div style={{ backgroundImage: "url(/box.png)" }}></div>
           <div style={{ backgroundImage: "url(/letter.png)" }}></div>
+          <div style={{ backgroundImage: "url(/devin.png)" }}></div>
         </div>
 
         <div className={styles.logo}>
